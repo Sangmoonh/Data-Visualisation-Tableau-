@@ -1,5 +1,3 @@
-# Data-Visualisation-Tableau-
-
 # 📊 Data Visualisation with Tableau
 
 Welcome to the **Data Visualisation - Tableau** project!  
